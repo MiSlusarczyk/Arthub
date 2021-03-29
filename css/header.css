@@ -1,0 +1,38 @@
+#mainBar
+{
+    height: 50px;
+    background-color: black;
+    color:  white;
+}
+
+#logoBar
+{
+    width: 1000px;
+    font-size: 30px;
+    margin: auto;
+}
+
+#searchBox
+{
+    width: 400px;
+    margin: auto;
+    height: 25px;  
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    margin-top:  5px;
+}
+
+#logoutButton
+{
+    background-color:  #262626;
+    font-size: 20px;
+    width: 90px;
+    text-align: center;
+    border-radius: 5px;
+    float: right;
+    padding: 4px;
+    margin-top: 10px;
+    margin-right: 20px;
+    color: white;
+}

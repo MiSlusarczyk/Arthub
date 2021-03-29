@@ -1,0 +1,75 @@
+
+body
+{
+font-family: Tahoma;
+background-color: #171717;
+padding: 0;
+margin: 0%;
+}
+
+#bar
+{
+	height: 70px;
+	background-color:black;
+	padding: 5px;
+}
+
+#logo
+{
+	color: white;
+	font-size: 50px;
+	display: inline-block;
+}
+
+#buttonSignup
+{
+	color: white;
+	font-size: 30px;
+	background-color: gray;
+	width: 150px;
+	text-align: center;
+	padding: 5px;
+	border-radius: 5px;
+	float: right;
+	margin-right: 60px;
+	margin-top: 10px;
+}
+
+#loginSpace
+{
+	background-color: #292929;
+	width: 800px;
+	height: 350px;
+	margin: auto;
+	margin-top: 80px;
+	padding: 10px;
+	padding-top: 20px;
+	text-align: center;
+	color: white;
+}
+
+#loginTitle
+{
+	font-size: 50px;
+}
+
+#text
+{
+	width: 400px;
+	height: 60px;
+	border-radius: 5px;
+	border: solid 1px #919191;
+	font-size: 25px;
+}
+
+#button
+{
+	width: 400px;
+	height: 60px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 20px;
+	border: solid 1px #585858;
+	background-color: black;
+	color:  white;
+}

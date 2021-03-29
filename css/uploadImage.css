@@ -1,0 +1,53 @@
+body
+{
+    font-family: Tahoma;
+    background-color: #171717;
+    margin: 0%;
+}
+
+#contentDown
+{
+    background-color: black;
+    color: white;
+    min-height: 300px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 150px;
+    padding-top: 30px;
+}
+
+#addImage
+{
+    margin: auto;
+    width: 800px;
+    text-align: center;
+    height: 40px;
+    font-size: 25px;
+    background-color: #262626;
+    color: white;
+    border: none;
+    margin-top: 60px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+#addButton
+{
+    margin: auto;
+    width: 800px;
+    text-align: center;
+    height: 50px;
+    font-size: 35px;
+    background-color: #262626;
+    color: white;
+    border: none;   
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#addButton:hover
+{
+    border: 1px solid white;
+}

@@ -1,0 +1,118 @@
+body
+{
+    font-family: Tahoma;
+    background-color: #171717;
+    margin: 0%;
+}
+
+#contentUp
+{
+    background-color: #262626;
+    min-height: 400px;
+    width: 1000px; 
+    margin: auto;
+    margin-top: 30px;
+}
+
+#username
+{
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#profilePic
+{
+    width: 200px;
+    margin-top: -150px;
+    text-align: center;
+    border-radius: 50%;
+
+    border: solid 1px #262626;
+}
+
+#optionBar
+{
+    margin:auto;
+    margin-top: 30px;
+    width: 1000px;
+    background-color: #171717;
+}
+
+#optionButton
+{
+    border-left: solid 3px #171717;
+    border-right: solid 3px #171717;
+    display: inline-block;
+    width: 240px;
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+    background-color: #262626;
+    color: white;
+}
+
+#contentDown
+{
+    background-color: #171717;
+    color: white;
+    min-height: 300px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#addPost
+{
+    margin: auto;
+    width: 800px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    height: 250px;
+    background-color: #060606;
+}
+
+#addPostImage
+{
+    margin: auto;
+    width: 750px;
+    text-align: center;
+    height: 40px;
+    font-size: 25px;
+    background-color: #262626;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+#addPostText
+{
+    width: 744px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: #373737;
+}
+
+#addPostButton
+{
+    width: 800px;
+    text-align: center;
+    height: 50px;
+    font-size: 35px;
+    background-color: #262626;
+    color: white;
+    border: none;   
+    margin-top: 20px    
+}
+
+#addPostButton:hover
+{
+    border: white 1px solid;
+}
